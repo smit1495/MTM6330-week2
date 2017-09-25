@@ -1,2 +1,5 @@
 # MTM6330-week2
-Week 2 of class
+
+My first GitHub repo
+
+Lana Smith Section 010
